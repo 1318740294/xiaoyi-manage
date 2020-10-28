@@ -1,4 +1,4 @@
-# vue-manage-sysytem
+# vue-manage-system
 
 ## Project setup
 ```
